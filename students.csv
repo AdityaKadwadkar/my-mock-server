@@ -1,0 +1,11 @@
+student_id,first_name,last_name,email,phone,date_of_birth,enrollment_date,department,batch_year,division,section,course_enrolled,current_semester,password_dob
+STU001,Amit,Singh,amit.singh@university.edu,9876543210,2002-05-15,2020-08-01,Computer Science,2020,A,1,B.Tech,1,2002-05-15
+STU002,Priya,Sharma,priya.sharma@university.edu,9876543211,2002-08-20,2020-08-01,Computer Science,2020,A,2,B.Tech,2,2002-08-20
+STU003,Rajesh,Kumar,rajesh.kumar@university.edu,9876543212,2002-12-10,2020-08-01,Electronics,2020,B,1,B.Tech,1,2002-12-10
+STU004,Neha,Patel,neha.patel@university.edu,9876543213,2003-01-25,2020-08-01,Mechanical,2020,C,1,B.Tech,1,2003-01-25
+STU005,Arjun,Verma,arjun.verma@university.edu,9876543214,2002-03-30,2020-08-01,Computer Science,2020,A,1,B.Tech,1,2002-03-30
+STU006,Deepika,Desai,deepika.desai@university.edu,9876543215,2002-07-12,2020-08-01,Electronics,2020,B,2,B.Tech,2,2002-07-12
+STU007,Vikram,Singh,vikram.singh@university.edu,9876543216,2002-11-05,2020-08-01,Mechanical,2020,C,2,B.Tech,2,2002-11-05
+STU008,Ananya,Gupta,ananya.gupta@university.edu,9876543217,2003-02-18,2020-08-01,Civil,2020,D,1,B.Tech,1,2003-02-18
+STU009,Kabir,Khan,kabir.khan@university.edu,9876543218,2001-09-22,2019-08-01,Computer Science,2019,A,1,B.Tech,3,2001-09-22
+STU010,Sneha,Reddy,sneha.reddy@university.edu,9876543219,2001-06-14,2019-08-01,Electronics,2019,B,3,B.Tech,4,2001-06-14

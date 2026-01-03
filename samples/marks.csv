@@ -1,0 +1,4 @@
+﻿student_id,course_code,internal_marks,external_marks,total_marks,grade,grading_date
+STU001,CS101,35,60,95,A+,2020-12-20
+STU002,EC101,36,59,95,A,2021-12-18
+STU003,CS101,28,58,86,B+,2020-12-20

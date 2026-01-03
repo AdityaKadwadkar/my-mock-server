@@ -1,0 +1,6 @@
+﻿student_id,first_name,last_name,email,phone,date_of_birth,department,batch_year,program,status
+STU001,Amit,Singh,amit.singh@university.edu,+919876543210,2000-05-15,CSE,2020,B.Tech,active
+STU002,Priya,Kumar,priya.kumar@university.edu,+919876543211,2001-03-22,ECE,2021,B.Tech,active
+STU003,Rajesh,Patel,rajesh.patel@university.edu,+919876543212,2000-07-08,CSE,2020,B.Tech,active
+STU004,Neha,Gupta,neha.gupta@university.edu,+919876543213,2001-11-30,ECE,2021,B.Tech,active
+STU005,Vikram,Sharma,vikram.sharma@university.edu,+919876543214,2000-02-14,ME,2020,B.Tech,active

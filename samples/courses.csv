@@ -1,0 +1,5 @@
+﻿course_code,course_name,description,credits,department,semester,max_marks
+CS101,Data Structures,Fundamentals of algorithms and data structures,4,CSE,2,100
+CS102,Web Development,Frontend and backend web development,4,CSE,4,100
+EC101,Digital Electronics,Logic gates and digital circuits,4,ECE,2,100
+ME101,Thermodynamics,Heat and thermodynamic processes,4,ME,2,100

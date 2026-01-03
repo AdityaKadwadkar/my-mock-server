@@ -1,0 +1,3 @@
+﻿admin_id,first_name,last_name,email,role,department,status
+ADM001,Ramesh,Kumar,ramesh.kumar@university.edu,Dean,CSE,active
+ADM002,Meera,Singh,meera.singh@university.edu,Coordinator,ECE,active

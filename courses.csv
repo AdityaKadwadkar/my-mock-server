@@ -1,0 +1,12 @@
+course_code,course_name,credits,department,year,semester,max_marks
+CS101,Data Structures,4,Computer Science,1,1,100
+CS102,Web Development,4,Computer Science,1,2,100
+CS201,Database Management,4,Computer Science,2,3,100
+CS202,Operating Systems,4,Computer Science,2,4,100
+EC101,Digital Electronics,4,Electronics,1,1,100
+EC102,Microprocessors,4,Electronics,1,2,100
+EC201,Signal Processing,4,Electronics,2,3,100
+ME101,Thermodynamics,4,Mechanical,1,1,100
+ME102,Fluid Mechanics,4,Mechanical,1,2,100
+CE101,Structural Analysis,4,Civil,1,1,100
+CE102,Soil Mechanics,4,Civil,1,2,100
